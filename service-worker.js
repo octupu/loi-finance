@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/loi-finance/precache-manifest.0bf8197181b4a824513b8d34ba60c78f.js"
+  "/loi-finance/precache-manifest.e3d7151a4be3f370bc47c9c690359271.js"
 );
 
 self.addEventListener('message', (event) => {
