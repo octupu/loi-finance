@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d6bee76c2ad56f8a2bf71dd39fe842a",
+    "revision": "57fdc773bbae56a79d0fe3b119f304b4",
     "url": "/loi-finance/index.html"
   },
   {
-    "revision": "c1ed35edcd190963d51b",
+    "revision": "9093faecdce4c7afdaf0",
     "url": "/loi-finance/static/css/main.34de6062.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/loi-finance/static/js/2.c9cc2c06.chunk.js"
   },
   {
-    "revision": "c1ed35edcd190963d51b",
-    "url": "/loi-finance/static/js/main.26e5e3c1.chunk.js"
+    "revision": "9093faecdce4c7afdaf0",
+    "url": "/loi-finance/static/js/main.6bd1be15.chunk.js"
   },
   {
     "revision": "39af46295c54bddc69e0",
