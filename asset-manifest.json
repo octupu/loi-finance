@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/loi-finance/static/css/main.34de6062.chunk.css",
-    "main.js": "/loi-finance/static/js/main.6bd1be15.chunk.js",
-    "main.js.map": "/loi-finance/static/js/main.6bd1be15.chunk.js.map",
+    "main.js": "/loi-finance/static/js/main.93d067db.chunk.js",
+    "main.js.map": "/loi-finance/static/js/main.93d067db.chunk.js.map",
     "runtime-main.js": "/loi-finance/static/js/runtime-main.20de03cd.js",
     "runtime-main.js.map": "/loi-finance/static/js/runtime-main.20de03cd.js.map",
-    "static/js/2.c9cc2c06.chunk.js": "/loi-finance/static/js/2.c9cc2c06.chunk.js",
-    "static/js/2.c9cc2c06.chunk.js.map": "/loi-finance/static/js/2.c9cc2c06.chunk.js.map",
+    "static/js/2.436faf9d.chunk.js": "/loi-finance/static/js/2.436faf9d.chunk.js",
+    "static/js/2.436faf9d.chunk.js.map": "/loi-finance/static/js/2.436faf9d.chunk.js.map",
     "index.html": "/loi-finance/index.html",
-    "precache-manifest.093a3d30478f0ad005e4d7abcc5454d6.js": "/loi-finance/precache-manifest.093a3d30478f0ad005e4d7abcc5454d6.js",
+    "precache-manifest.afc52db55b7c7c23973ffae610927f4e.js": "/loi-finance/precache-manifest.afc52db55b7c7c23973ffae610927f4e.js",
     "service-worker.js": "/loi-finance/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/loi-finance/static/css/main.34de6062.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.20de03cd.js",
-    "static/js/2.c9cc2c06.chunk.js",
+    "static/js/2.436faf9d.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.6bd1be15.chunk.js"
+    "static/js/main.93d067db.chunk.js"
   ]
 }
